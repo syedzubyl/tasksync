@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625454460532",
+    "project_id": "telegram-bots-c3c1f",
+    "storage_bucket": "telegram-bots-c3c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625454460532:android:1ff155ccbe24d102626b21",
+        "android_client_info": {
+          "package_name": "com.example.tasksync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625454460532-gt4htnpigq7eg2na1usp7vaj0js86hq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXpSZZWndSDcNrNV3EptEEvJefjBlj0yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625454460532-gt4htnpigq7eg2na1usp7vaj0js86hq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

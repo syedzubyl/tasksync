@@ -231,8 +231,10 @@ Widget taskType(String lable, int color){
   Widget categorySelected(String label, int color){
     return InkWell(
       onTap: (){
-        category =label;
-        print("categoty is working");
+        setState(() {
+          category =label;
+          print("categoty is working");
+        });
       },
       child: Chip(
         backgroundColor:category == label ? Colors.white : Color(color),
